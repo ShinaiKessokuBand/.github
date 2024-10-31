@@ -5,7 +5,7 @@
 ## BUAA OOP 2024
 
 ### Developers:
-- @charcai
-- @duanduansweetie
-- @BruceLuent
-- @cmdsu
+- [@charcai](https://github.com/charcai/)
+- [@duanduansweetie](https://github.com/duanduansweetie)
+- [@BruceLuent](https://github.com/BruceLuent)
+- [@cmdsu](https://github.com/cmdsu/)
